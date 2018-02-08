@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1506166230 source:c:\users\kleon\desktop\raginda firdaus 1301150037 if-39-09\fungsi versi 3\fungver3\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	"time.h"
+	<conio.h>
+	<iomanip>
+
+1506166230 source:r:\kumpulan tugas\kuliah\tahun 3\semester 5\ai\simulated anealing\raginda firdaus 1301150037 if-39-09\fungsi versi 3\fungver3\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	"time.h"
+	<conio.h>
+	<iomanip>
+
